@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'freeberg-dotnet6'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_627d2730d35c442b8ad12ba6837ee111 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_d1bf0b826a4e4631b7336843a2dd0fd5 }}
         package: .
